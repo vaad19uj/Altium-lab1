@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=Hello.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Hello.SchDoc|FileName=World.SchDoc|SheetNumber=2
